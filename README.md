@@ -1,2 +1,2 @@
 # PreciousMetalPrice
-# This file was orginaally created in the colab.
+# This file was orginally created in the colab.
